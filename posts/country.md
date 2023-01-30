@@ -1,0 +1,1 @@
+This is a single-page web extraction demonstration. We extract the countries of the world on the page of [https://www.scrapethissite.com/pages/simple/](https://www.scrapethissite.com/pages/simple/), including **name**, **capital**, **population**, and **area**.

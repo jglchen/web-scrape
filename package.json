@@ -1,0 +1,42 @@
+{
+  "name": "web-scrape",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.4",
+    "@types/node": "18.11.18",
+    "@types/react": "18.0.27",
+    "@types/react-dom": "18.0.10",
+    "axios": "^1.2.3",
+    "bluebird": "^3.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "chrome-aws-lambda": "^8.0.2",
+    "email-validator": "^2.0.4",
+    "eslint": "8.32.0",
+    "eslint-config-next": "13.1.4",
+    "firebase-admin": "^11.5.0",
+    "js2xmlparser": "^5.0.0",
+    "json-to-pretty-yaml": "^1.2.2",
+    "json2csv": "^6.0.0-alpha.2",
+    "next": "13.1.4",
+    "nodemailer": "^6.9.0",
+    "puppeteer-core": "^8.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "remark": "^14.0.2",
+    "remark-html": "^15.0.1",
+    "typescript": "4.9.4"
+  },
+  "devDependencies": {
+    "@types/bluebird": "^3.5.38"
+  }
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Elasticsearch adding code to reject connections to OpenSearch clusters or to clusters running open source distributions of ES7",
+    "link": "https://github.com/elastic/elasticsearch-py/pull/1623"
+  },
+  {
+    "title": "Robinhood has made its public market debut. Why wait? Invest in tokenised Robinhood Stock.",
+    "link": "https://alb.reddit.com/cr?z=gAAAAABhETLNxeGaqqs-5-q-aPOczIs_B9bXsCCebGu3N7mUqStTuLAujqRY0QPu_4lkFxhkdeaPYRXSPpMYxlxLzcU27HACvei0SQ55thlTW5CCdTuYqibUjwuzOR9etfEqtF2WeJK6LxByKLd8dFdficq1O0wgcrCstkobLimR86tLREP_-TT1rHFvrzJD978mAjXA3_C2Sbw06v_Yoexam_GRyzdhngu0AuuCxcMSvgrJjPYMFX9C4AHfRRBgTOP2qchlCAlDqGxWFTEVuYDCID8AKOB6rt62YqXcOBkujppJG8QDAcQRWIXgcl_9fhW46Iz1f0Lju5QNLid_prGQ-7_C3gOagi_iHJUSsIQu55x5VlpB7SUBV2XA3Hzbrs1I5SiuMMRNZzWVHr61bWkF_9KwixvfPVBw8Z6fdX-6XGh5r0IAIjvR5qa-8JKQAT_MacmlKG79e9NMzjUL9rIFNIEkKUIrpQrc6QP3KVMOsNKLTr7AKoWEZuErlhx3yW5u4RLXrxt-pJ42L4NySW3DA77Y-NqX04yt-YI9tMvlm4HY2aREcGACyzbpPXLA-FpVyc8GsKAuo6HmldWnYhSP6RVTRWU3jpb-kBb4hdiuNWPFWLhhdYsVPbYT8R9GXgfK4vEiBNXbrExJcnQvU8IX3du1_bzhcaxBeX3k6mg-mCuoaJG2WqButzktIAkVVQBa8vAlhzc6m_0xb3LdZ5GwZT4b5ORD6Syg43hqJwsKlr3MdyA6USEfv7ZNgD8K5jx8SGDpVuWQfeo5wFmgITUiIjXf9gQIk6wUyfnRo0aUVG4mqpHfnWk3TQpgHuMMcLYg9GjMIw1CdRhLQW9ccPKOBK2gUOldRWsdxCIUCRZ-ar4D_NjyW3MgNSdh1PACor8GBTilELeKYR_2TlPMPRmBPkV9Cv5x4DLKO0pRE8s-qIOb2PDUqqhS_NhATUrK4ekpGQfKBC8HTrn-HyTTd_wiLvXrT8WM-eFYMVUSQo45ScDN4ty0x2aNrryA26JCwUXrL3kcfB5wdGT72aMh-yTQQfWfOdBBlZoTgqU97tRefDpHNHkExlRrIgDHbXvrKEtRKAPa7dQTrfUpXQzKWIdqsnT9RX-IpHt8gDkAcLLFjEJvgpYiH-N4Qd8jT-m48Zbqzpft6zM650Nwiz1EO-9pw93A3FFFPsjnw_z_HcpbvLPXHfE6qLB_3U_rtnnoKsn2oliGZa1Mc3JwvknC1Xg2OWqnCOvr9OCRIPthexSa-n9wfNjgOVeh9nkIz8AWlbTywq5NvtBTPwpjJgD3vVnaWhlLN8J4UVt-6f1rHbVMcbQg6wks16DGyZXx1wQWfOBU2OlAUpr9FP0ashdk_LPfelKVwhzN1swpjEMIBEtrCg1OGMqyaNh38xEVtB7f0MPLEyw47_4iOqTi08-aUZlup-U2CmFz16QbquuiqzijItAmaXO6nkg="
+  },
+  {
+    "title": "Three fundamental flaws of SIMD",
+    "link": "https://www.bitsnbites.eu/three-fundamental-flaws-of-simd"
+  },
+  {
+    "title": "Go: the Good, the Bad and the Ugly",
+    "link": "https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/#the-good"
+  },
+  {
+    "title": "When Zero Cost Abstractions Aren’t Zero Cost",
+    "link": "https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html"
+  },
+  {
+    "title": "Making an OS (x86) Chapter 5 - Reading the disk with BIOS",
+    "link": "https://www.youtube.com/watch?v=3IDm_14_tAU&ab_channel=DaedalusCommunity"
+  },
+  {
+    "title": "NanoNeuron - 7 simple JS functions that explain how machines learn | Trekhleb",
+    "link": "https://trekhleb.dev/blog/2019/nano-neuron/"
+  },
+  {
+    "title": "5 roadblocks to Agile nirvana",
+    "link": "https://five9s.substack.com/p/5-roadblocks-to-agile-nirvana"
+  },
+  {
+    "title": "Anecdotes about the macOS Sandbox File Limit",
+    "link": "https://buckleyisms.com/blog/anecdotes-about-the-macos-sandbox-file-limit/"
+  },
+  {
+    "title": "How to write slow Rust code - Part 2 (a deeper look into what really made my code slow)",
+    "link": "https://renato.athaydes.com/posts/how-to-write-slow-rust-code-part-2.html"
+  },
+  {
+    "title": "It’s ten o’clock, do you know where your private keys are?",
+    "link": "https://blog.sigstore.dev/its-ten-o-clock-do-you-know-where-your-private-keys-are-5c869cf53234"
+  },
+  {
+    "title": "What are Closures? How are they implemented in C#? How do they “capture” environment variables from different scopes? What are the side effects you weren’t aware of? Let’s get some practical intuition inspecting the IL code as a source of truth.",
+    "link": "https://vkontech.com/the-intuitive-guide-to-understanding-closures-in-c/"
+  },
+  {
+    "title": "It's Time to Stop Using Subversion",
+    "link": "https://01.media/it-s-time-to-stop-using-subversion"
+  },
+  {
+    "title": "Python Data Types For Beginners | Implementation of List and Dictionary | Python List & Dictionary",
+    "link": "https://www.youtube.com/watch?v=RTeEUqatCHA"
+  },
+  {
+    "title": "[TALK] How security chaos engineering can prevent security failures from happening",
+    "link": "https://youtu.be/hghzWuuiv5I?list=PLEx5khR4g7PI7jKbpyrshWUa7Ca0dH6F6"
+  },
+  {
+    "title": "Enjoy an all-in-one collaboration solution that brings all your teams together. Space provides a tool set for instant communication, software development, and team and project management. What’s even better, it’s free in our cloud for an unlimited number of users.",
+    "link": "https://alb.reddit.com/cr?z=gAAAAABhETLMO0JPxnkSyLaC_Ogs8tb2msYH1szQC4QfYwYErLkioC07yn1deiIQYKGEGciBdrknYv5q5eHxVkoi115q3Zr1-Sg3p7U1HZsyAypilJsUoLMpifWC4_MLx3rwoHvXRkq47FqtDr3yZMCefouUUWtoQAkSJcvJtS1PZO5Pap7wuZOINX7-MSVlisouO2my2ty6mGTVquzMbsXGIHTh77cOSUoN0hSXulqcvufDloEBXhtMna669MrflZO3oBcg07S3yWHMsIXSrcKnAHwo3vJWfrmWdSDeNl09SvT2HGIJojROFd73hOmiHvW4vwd7qGE7mVvvSJt4Ts-jQ_HvCfl2oDmX-ULsCODfTUn0I1gEwPM0p51JGSOKWJtAzWbeEsHqGtSRSGcl7yQaM_MyugZrQtjC_cV_mdfswPLhSClHOoCKwUeK1mop8jJ5zHIR55N8cAwgN7mijX1vlatqIprPsPy_6ut9-YzI3KJcQt6N2r0lDm3zMXB4y11Y6YSjksRYIpK_nmaZVuwqYufmKv4CJc0q6dbRoM0U_CvX0IapnQY1oeeHCQryzBbSZPGH66oNEzYV1nD5BTqEwuU9q6DDCHnfzHiwG0iQ-Bttq1OzPhDV6IMMZhcCbH5-g4SGK6Nx0VaHhucyUM52RJFF-oAUeNlnnMtSvZgcX973D_j1NRe1eS82cD-2HXR0b1JMB0geKd8l76qvFyOvPi3srM5zzEvWfCfV-vyyXKOwYwy9ZV5Z7DAxt8qhwklrL5R1zPQDoPLPAC1Gtx6ZFjjxIrk40DCx_83Q6r2UDbW0Ia179ZM34DLTS_O-6uU1svtukT8QPf9gjCflYUPHqTgpq8mN5S3_zIIGo9tbnWXQmzxlTcj2PHh2kVjO5kOrhJuX2xU1FZpvF3DtgLrXPTkUlcEdaI-3OL31XsxX-Ypx2ELcqx29ITb87G8VKZD2SGPalT8jkSQeb_1Q7W0BZbEnkcBjDiDvq2wmwdrfp5RK5vf6Zt5Iphc-xKwSZYZW0x02uCA03mE1Iev77l3wAsc-dNrB0MRiHH8dMiHtvo7i3PzUrd55Jn4wy4yCas2oHZ3dBRp66wSJzgkNQiav22-w948SuMWQkOYhKb5eLY5u0AK36uQw0IpAuM1tm1nfmui8Uc6y0KD71TcXorrztkSgoRxnl89jb4OD5pZBZN4RgWJB7Ra-FYXfghWZ6I-6uHPf0A7JbGER6c-VtZYKRwB_7KQWATbaaqyOcPv1FE2Eqgg-WpRK2dTRLX6tLOdE0OC8lPzTyodP9oePah3HC6nhmjfI62gfDhH6r9N3gaORopBABpT4CR8VlxruolqRFdjKYqW0a3hDhDz6ppT3Gu1UgDtKdNpykN1e5dcLqjWgj2_cm5_UiLk5nUc1tGVVwJ_e-xp6q2NEkuIwYbOjlj7VrWL32yc_HHTR3TPCJvsVPnvjGjQLf77GsmYpydPDI5_0zXkLWYDqeqvt2Tcgu3cCrFMhMR7wTutfAxYaGP3IJ8jCRBZ_etqhbsSmj6yBLTD26XZWt6h8JS5oRMN89uYb9E6kwQ=="
+  },
+  {
+    "title": "Improving responsiveness in text inputs",
+    "link": "https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/"
+  },
+  {
+    "title": "Quick access with SystemTrayMenu",
+    "link": "http://www.shrayas.com/posts/quick-access-everything-with-systemtraymenu/"
+  },
+  {
+    "title": "The Programming Language B (1973)",
+    "link": "https://web.archive.org/web/19980220175931/http://cm.bell-labs.com/cm/cs/who/dmr/bintro.html"
+  },
+  {
+    "title": "Modern software development is cancer (2017)",
+    "link": "https://www.dedoimedo.com/computers/software-development-cancer.html"
+  },
+  {
+    "title": "Text Annotation Tools for NLP",
+    "link": "https://javier-ramos.medium.com/text-annotation-tools-for-nlp-c254f8ee52f7?source=friends_link&sk=166c9981f97af788f2d386e3e1a3af77"
+  },
+  {
+    "title": "A performance-focused workflow based on Google tools",
+    "link": "https://web.dev/vitals-tools-workflow/"
+  },
+  {
+    "title": "NPM silently suspended package adoption after mistakenly transferring one to me",
+    "link": "https://twitter.com/andrewmd5/status/1423915732979437571?s=21"
+  },
+  {
+    "title": "Qt for Python - My Thoughs",
+    "link": "https://youtu.be/-TahM7ItfoE"
+  },
+  {
+    "title": "I created a new C# ORM from the ground up",
+    "link": "https://www.reddit.com/r/csharp/comments/p0wr0b/i_created_a_new_orm/"
+  },
+  {
+    "title": "Effective Kotlin Item 35: Consider defining a DSL for complex object creation",
+    "link": "https://kt.academy/article/ek-dsl"
+  },
+  {
+    "title": "Glific - Open Source Two Way Communication Platform for NGOs",
+    "link": "https://www.findbestopensource.com/article-detail/glific-two-way-communication-platform-for-ngo"
+  }
+]

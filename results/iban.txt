@@ -1,0 +1,162 @@
+[
+  {
+    "Currency": "USD",
+    "CurrencyName": "US dollar",
+    "ExchangeRate": 1.1807
+  },
+  {
+    "Currency": "JPY",
+    "CurrencyName": "Japanese yen",
+    "ExchangeRate": 129.64
+  },
+  {
+    "Currency": "BGN",
+    "CurrencyName": "Bulgarian lev",
+    "ExchangeRate": 1.9558
+  },
+  {
+    "Currency": "CZK",
+    "CurrencyName": "Czech koruna",
+    "ExchangeRate": 25.413
+  },
+  {
+    "Currency": "DKK",
+    "CurrencyName": "Danish krone",
+    "ExchangeRate": 7.4371
+  },
+  {
+    "Currency": "GBP",
+    "CurrencyName": "Pound sterling",
+    "ExchangeRate": 0.8484
+  },
+  {
+    "Currency": "HUF",
+    "CurrencyName": "Hungarian forint",
+    "ExchangeRate": 352.72
+  },
+  {
+    "Currency": "PLN",
+    "CurrencyName": "Polish zloty",
+    "ExchangeRate": 4.5563
+  },
+  {
+    "Currency": "RON",
+    "CurrencyName": "Romanian leu",
+    "ExchangeRate": 4.916
+  },
+  {
+    "Currency": "SEK",
+    "CurrencyName": "Swedish krona",
+    "ExchangeRate": 10.1683
+  },
+  {
+    "Currency": "CHF",
+    "CurrencyName": "Swiss franc",
+    "ExchangeRate": 1.0724
+  },
+  {
+    "Currency": "ISK",
+    "CurrencyName": "Icelandic krona",
+    "ExchangeRate": 147.8
+  },
+  {
+    "Currency": "NOK",
+    "CurrencyName": "Norwegian krone",
+    "ExchangeRate": 10.423
+  },
+  {
+    "Currency": "HRK",
+    "CurrencyName": "Croatian kuna",
+    "ExchangeRate": 7.4978
+  },
+  {
+    "Currency": "RUB",
+    "CurrencyName": "Russian rouble",
+    "ExchangeRate": 86.4194
+  },
+  {
+    "Currency": "TRY",
+    "CurrencyName": "Turkish lira",
+    "ExchangeRate": 10.1385
+  },
+  {
+    "Currency": "AUD",
+    "CurrencyName": "Australian dollar",
+    "ExchangeRate": 1.5968
+  },
+  {
+    "Currency": "BRL",
+    "CurrencyName": "Brazilian real",
+    "ExchangeRate": 6.1594
+  },
+  {
+    "Currency": "CAD",
+    "CurrencyName": "Canadian dollar",
+    "ExchangeRate": 1.4763
+  },
+  {
+    "Currency": "CNY",
+    "CurrencyName": "Chinese yuan renminbi",
+    "ExchangeRate": 7.6379
+  },
+  {
+    "Currency": "HKD",
+    "CurrencyName": "Hong Kong dollar",
+    "ExchangeRate": 9.1827
+  },
+  {
+    "Currency": "IDR",
+    "CurrencyName": "Indonesian rupiah",
+    "ExchangeRate": 16934.12
+  },
+  {
+    "Currency": "ILS",
+    "CurrencyName": "Israeli shekel",
+    "ExchangeRate": 3.7967
+  },
+  {
+    "Currency": "INR",
+    "CurrencyName": "Indian rupee",
+    "ExchangeRate": 87.4993
+  },
+  {
+    "Currency": "KRW",
+    "CurrencyName": "South Korean won",
+    "ExchangeRate": 1349.15
+  },
+  {
+    "Currency": "MXN",
+    "CurrencyName": "Mexican peso",
+    "ExchangeRate": 23.5178
+  },
+  {
+    "Currency": "MYR",
+    "CurrencyName": "Malaysian ringgit",
+    "ExchangeRate": 4.9814
+  },
+  {
+    "Currency": "NZD",
+    "CurrencyName": "New Zealand dollar",
+    "ExchangeRate": 1.6737
+  },
+  {
+    "Currency": "PHP",
+    "CurrencyName": "Philippine peso",
+    "ExchangeRate": 59.644
+  },
+  {
+    "Currency": "SGD",
+    "CurrencyName": "Singapore dollar",
+    "ExchangeRate": 1.5952
+  },
+  {
+    "Currency": "THB",
+    "CurrencyName": "Thai baht",
+    "ExchangeRate": 39.359
+  },
+  {
+    "Currency": "ZAR",
+    "CurrencyName": "South African rand",
+    "ExchangeRate": 17.0983
+  }
+]

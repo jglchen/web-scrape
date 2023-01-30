@@ -1,0 +1,1 @@
+We are collecting the list of newsfeeds on the page of [https://old.reddit.com/r/programming/](https://old.reddit.com/r/programming/), including **news titles** and **linkage page URLs for the respective news**. We can easily expand this app functionality to scrawl additional more pages to collect more data at the same time.

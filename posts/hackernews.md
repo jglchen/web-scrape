@@ -1,0 +1,1 @@
+We are collecting the list of newsfeeds on the page of [https://news.ycombinator.com/news](https://news.ycombinator.com/news), including **news titles** and **linkage page URLs for the respective news**. We can easily expand this app functionality to scrawl additional more pages to collect more data at the same time.

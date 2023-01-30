@@ -1,0 +1,1 @@
+We are collecting Stack Overflow job listings on the page of [https://stackoverflow.com/jobs](https://stackoverflow.com/jobs), including **job titles**, **linkage page URLs for the respective job** and **listing date**. Unfortunately, the target page has already been discontinued, we still keep this scraping page to see the search results for demonstrations.

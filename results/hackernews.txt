@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Chatcontrol 2.0: The End of the Privacy of Digital Correspondence in the EU",
+    "link": "https://www.patrick-breyer.de/en/posts/message-screening/?lang=en"
+  },
+  {
+    "title": "Crystal arrangement results in 1,000x more power from ferroelectric solar cells",
+    "link": "https://www.pv-magazine.com/2021/08/04/crystal-arrangement-results-in-1000x-more-power-from-ferroelectric-solar-cells/"
+  },
+  {
+    "title": "addons.thunderbird.net SSL certificate has expired",
+    "link": "https://thunderbird.topicbox.com/groups/addons/T446f961afe6c556f/addons-thunderbird-net-ssl-certificate-is-expired"
+  },
+  {
+    "title": "Build Your Own NeXT",
+    "link": "https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all"
+  },
+  {
+    "title": "Launch HN: Lightly (YC S21): Label only the data which improves your ML model",
+    "link": "item?id=28116371"
+  },
+  {
+    "title": "Climate change: IPCC report is 'code red for humanity'",
+    "link": "https://www.bbc.com/news/science-environment-58130705"
+  },
+  {
+    "title": "The Most Beautiful Program Ever Written – Lisp Interpreter Written in Lisp",
+    "link": "https://www.lvguowei.me/post/the-most-beautiful-program-ever-written/"
+  },
+  {
+    "title": "The Official Aztec C Online Museum",
+    "link": "http://aztecmuseum.ca/"
+  },
+  {
+    "title": "Show HN: Ots – share a secret via one-time URL (a simple Go CLI)",
+    "link": "https://github.com/sniptt-official/ots"
+  },
+  {
+    "title": "2,400-year-old baskets still filled with fruit found in submerged Egyptian city",
+    "link": "https://www.smithsonianmag.com/smart-news/archaeologists-uncover-2400-year-old-fruit-baskets-underwater-egyptian-city-180978350/"
+  },
+  {
+    "title": "U.S. Senate Vote in Favor of Amendment That Threatens Crypto Industry",
+    "link": "https://decrypt.co/78038/senate-votes-for-amendment-that-threatens-crypto-industry"
+  },
+  {
+    "title": "The Eldritch Roots of Dungeons and Dragons",
+    "link": "https://thereader.mitpress.mit.edu/the-eldritch-roots-of-dungeons-dragons/"
+  },
+  {
+    "title": "Emu68: M68K Emulation for ARM",
+    "link": "https://github.com/michalsc/Emu68"
+  },
+  {
+    "title": "How Watches Work",
+    "link": "https://www.fratellowatches.com/how-watches-work-what-is-an-automatic-watch-and-what-different-types-of-winding-weights-are-there/"
+  },
+  {
+    "title": "The lost history of the electric car – and the future of transport",
+    "link": "https://www.theguardian.com/technology/2021/aug/03/lost-history-electric-car-future-transport"
+  },
+  {
+    "title": "Ask HN: Is anyone working on an open hardware 3G/4G dongle?",
+    "link": "item?id=28105659"
+  },
+  {
+    "title": "Launch HN: Financial Choice (YC S21) – Checking accounts with market returns",
+    "link": "item?id=28116288"
+  },
+  {
+    "title": "One Bad Apple",
+    "link": "https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html"
+  },
+  {
+    "title": "Supercritical CO2 Tech Team",
+    "link": "https://www.energy.gov/supercritical-co2-tech-team"
+  },
+  {
+    "title": "WhatsApp lead and other tech experts fire back at Apple’s Child Safety plan",
+    "link": "https://www.theverge.com/2021/8/6/22613365/apple-icloud-csam-scanning-whatsapp-surveillance-reactions"
+  },
+  {
+    "title": "Stupidity is a specific cognitive failing",
+    "link": "https://psyche.co/ideas/why-some-of-the-smartest-people-can-be-so-very-stupid"
+  },
+  {
+    "title": "A wind-powered vehicle that can travel twice as fast as the wind itself",
+    "link": "https://www.businessinsider.com/youtuber-won-10000-bet-with-physicist-over-wind-powered-vehicle-2021-7"
+  },
+  {
+    "title": "GR-1 Anvil – world’s first handheld Gauss Rifle",
+    "link": "https://arcflashlabs.com/product/gr-1-anvil/"
+  },
+  {
+    "title": "'I've Got Nothing to Hide' and Other Misunderstandings of Privacy (2007)",
+    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565"
+  },
+  {
+    "title": "Lisping at JPL (2020)",
+    "link": "https://flownet.com/gat/jpl-lisp.html"
+  },
+  {
+    "title": "Sea monsters and their inspiration: serpents, mermaids, the kraken and more",
+    "link": "https://www.nhm.ac.uk/discover/sea-monsters-inspiration-serpents-mermaids-the-kraken.html"
+  },
+  {
+    "title": "BBC Sport's Tokyo Olympics studio [video]",
+    "link": "https://www.bbc.co.uk/sport/av/olympics/58113457"
+  },
+  {
+    "title": "The Programming Language B (1973)",
+    "link": "https://web.archive.org/web/19980220175931/http://cm.bell-labs.com/cm/cs/who/dmr/bintro.html"
+  },
+  {
+    "title": "IPCC: Sixth Assessment Report",
+    "link": "https://www.ipcc.ch/assessment-report/ar6/"
+  }
+]

@@ -1,0 +1,3 @@
+We are searching for the best 30 best restaurants in Seattle listed by yellowpages.com. Starting from the page of [https://www.yellowpages.com/search?search_terms=restaurant&geo_location_terms=Seattle%2C%20WA](https://www.yellowpages.com/search?search_terms=restaurant&geo_location_terms=Seattle%2C%20WA), we collected the list of **linkage page URLs** of the respective best restaurants recommended by yellowpages.com. Then we repetitively scrape the web pages with URLs obtained to get the **names**, **email addresses**, and **phone numbers** of the restaurants. We can easily expand this app functionality to scrawl the data of additional more restaurants at the same time.
+
+The target URL may only function well if your server is in North America.
