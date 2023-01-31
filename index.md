@@ -17,6 +17,8 @@ There are two main approaches to scraping the web:
 
 For the first approach, we use [Cheerio](https://www.npmjs.com/package/cheerio), a library using jQuery on the server side, to crawl web pages. Sites, however, now become increasingly complex, and often regular HTTP crawling won't suffice anymore, but one needs a full-fledged browser engine, to get the necessary information from a site. This is particularly true for single-page applications which heavily rely on JavaScript and dynamic and asynchronous resources. Browser automation and headless browsers come to deal with the issues. Therefore we use [Puppeteer](https://pptr.dev/) to manipulate the browser programmatically. For the cases in this demonstration, we use either way depending on the actual situations of the target pages.
 
+[![web-scrape-screenshot](/images/web-scrape-screenshot.png)](https://web-scrape.vercel.app)
+
 **iOS** and **Android** mobile apps are also delivered for the scraping demonstrations. The apps are developed with **React Native**, anyone who is interested can test the apps through the [Expo Publish Link](https://exp.host/@jglchen/web-scrape) with [Expo Go](https://expo.dev/client) app. 
 
 
