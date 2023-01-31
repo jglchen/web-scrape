@@ -29,3 +29,5 @@ For the first approach, we use [Cheerio](https://www.npmjs.com/package/cheerio),
 ### [React Native GitHub](https://github.com/jglchen/react-native-web-scrape)
 ### back To [Series Home](https://jglchen.github.io/)
 
+{% include giscus.html %}
+
