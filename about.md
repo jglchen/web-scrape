@@ -24,6 +24,9 @@ This is a project of my [Side Project Series](https://jglchen.github.io/), liste
 - #### [Web Scraping Demonstrations](https://jglchen.github.io/web-scrape/)
     This is a next.js framework site to demonstrate web scraping cases and my expertise in web scraping.
 
+- #### [Web Scraping Demonstrations -- Mobile Version](https://jglchen.github.io/react-native-web-scrape/)
+    This mobile app is considered the mobile version of [Web Scraping Demonstrations](https://web-scrape.vercel.app) to demonstrate web scraping cases and my expertise in web scraping. 
+
 - #### [Firebase Authentication](https://jglchen.github.io/firebase-auth/)
     An authentication system with Firebase using a signed and encrypted cookie to store session data.
 
