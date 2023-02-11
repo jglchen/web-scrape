@@ -268,8 +268,17 @@ export default function Home({scrapeList}: {scrapeList: ScrapeItem[]}) {
   return (
     <div className="container">
       <Head>
-        <title>Web Scraping Demonstrations</title>
-        <link rel="icon" href="/favicon.ico" />
+         <title>Web Scraping Demonstrations</title>
+         <link rel="icon" href="/favicon.ico" />
+         <meta
+            name="description"
+            content="A next.js framework site to demonstrate web scraping cases and my expertise in web scraping."
+            />
+         <meta name="og:title" content="Web Scraping Demonstrations" />
+         <meta
+            property="og:description"
+            content="A next.js framework site to demonstrate web scraping cases and my expertise in web scraping."
+            />
       </Head>
       <h1 className="text-center">
            Web Scraping Demonstrations
