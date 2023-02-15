@@ -294,23 +294,27 @@ export default function Home({scrapeList}: {scrapeList: ScrapeItem[]}) {
          </select>      
       </form>
       <div className="clearfix">
-         <h4>
+         <h4 className="space-between">
+             <div>
              Target URL: <a href={url} target='_blank' rel='noreferrer'>{url}</a>
-             <button className="accent-button float-right" onClick={goWebScrape}>Go</button>
+             </div>
+             <button className="accent-button button-right" onClick={goWebScrape}>Go</button>
          </h4>
       </div>
       <div  className="clearfix" dangerouslySetInnerHTML={{ __html: getPostsData(url, scrapeList) }} />
-      <div className="clearfix">
-          <input type="radio" id="JSON" name="strFormat" value="JSON" checked={dataType === 'JSON'} onChange={toJSON} /><label htmlFor="JSON" className={labelStyles.horizontal}>JSON</label>     
-          <input type="radio" id="CSV" name="strFormat" value="CSV" checked={dataType === 'CSV'} onChange={toCSV} /><label htmlFor="CSV" className={labelStyles.horizontal}>CSV</label>     
-          <input type="radio" id="XML" name="strFormat" value="XML" checked={dataType === 'XML'} onChange={toXML} /><label htmlFor="XML" className={labelStyles.horizontal}>XML</label>     
-          <input type="radio" id="YAML" name="strFormat" value="YAML" checked={dataType === 'YAML'} onChange={toYAML} /><label htmlFor="YAML" className={labelStyles.horizontal}>YAML</label>    
-          <input type="radio" id="MySQL" name="strFormat" value="MySQL" checked={dataType === 'MySQL'} onChange={toMySQL} /><label htmlFor="MySQL" className={labelStyles.horizontal}>MySQL</label>     
+      <div className="space-between2">
+         <div> 
+            <input type="radio" id="JSON" name="strFormat" value="JSON" checked={dataType === 'JSON'} onChange={toJSON} /><label htmlFor="JSON" className={labelStyles.horizontal}>JSON</label>     
+            <input type="radio" id="CSV" name="strFormat" value="CSV" checked={dataType === 'CSV'} onChange={toCSV} /><label htmlFor="CSV" className={labelStyles.horizontal}>CSV</label>     
+            <input type="radio" id="XML" name="strFormat" value="XML" checked={dataType === 'XML'} onChange={toXML} /><label htmlFor="XML" className={labelStyles.horizontal}>XML</label>     
+            <input type="radio" id="YAML" name="strFormat" value="YAML" checked={dataType === 'YAML'} onChange={toYAML} /><label htmlFor="YAML" className={labelStyles.horizontal}>YAML</label>    
+            <input type="radio" id="MySQL" name="strFormat" value="MySQL" checked={dataType === 'MySQL'} onChange={toMySQL} /><label htmlFor="MySQL" className={labelStyles.horizontal}>MySQL</label>     
+          </div> 
           {extractData && !extractData.startsWith('Error') &&
-             <>
-             <button className="muted-button float-right" onClick={markToCopy}>Copy to Clipboard</button>
-             <button className="muted-button float-right" onClick={handleMailSend}>{goMail ? 'Send Mail': 'Mail Result'}</button>
-             </>
+            <div>
+               <button className="muted-button" onClick={handleMailSend}>{goMail ? 'Send Mail': 'Mail Result'}</button>
+               <button className="muted-button button-right" onClick={markToCopy}>Copy to Clipboard</button>
+            </div>
           }
      </div>
      <div className="clearfix">
